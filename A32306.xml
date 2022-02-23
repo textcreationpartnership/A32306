@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the King of Scots, and the Duke of York's court in Flanders to the Lord Douglas, and Collonel Brown, to be communicated to the rest of the nobility and gentry in the Scottish nation, with proposals and overtures, for the composing of all differences, the submitting to Counsel, and the preventing of a universal desolation.</title>
+            <author>Charles II, King of England, 1630-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32306</idno>
+            <idno type="STC">Wing C3128</idno>
+            <idno type="STC">ESTC R18313</idno>
+            <idno type="EEBO-CITATION">11743466</idno>
+            <idno type="OCLC">ocm 11743466</idno>
+            <idno type="VID">48524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48524)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 486:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the King of Scots, and the Duke of York's court in Flanders to the Lord Douglas, and Collonel Brown, to be communicated to the rest of the nobility and gentry in the Scottish nation, with proposals and overtures, for the composing of all differences, the submitting to Counsel, and the preventing of a universal desolation.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Culpepper, C.</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>David Stranghan,</publisher>
+                  <pubPlace>Aberdeen :</pubPlace>
+                  <date>[1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: C. Culpepper.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48524:1"/>
+            <p>A MESSAGE Sent from the KING of SCOTS, And the Duke of YORK's Court in <hi>Flanders;</hi> To the Lord <hi>Douglas,</hi> and Collonel <hi>BROWN;</hi> To be communicated to the reſt of the Nobility and Gentry in the <hi>Scottiſh</hi> Nation.</p>
+            <p>
+               <hi>WITH Propoſals</hi> and <hi>Overtures,</hi> for the compoſing of all Differences, the ſubmitting to Counſel, and the preventing of a Univerſal Deſolation.</p>
+            <p>Printed at <hi>Aberdeen,</hi> by <hi>David Stranghan;</hi> And Tranſlated out of the Original, for general ſatisfaction.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:48524:2"/>
+            <pb n="3" facs="tcp:48524:2"/>
+            <head>A Meſſage from the King of <hi>Scots,</hi> and the Duke of <hi>Yorks</hi> Court in <hi>Flanders.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>Pon a ſerious reflect and diſcovery of the various Im<g ref="char:EOLhyphen"/>poſtures in ſeveral parts, I cannot but ſuſpect the inte<g ref="char:EOLhyphen"/>grity of your procedure, and deplore the ſadneſs of your Condition, with as much regret of ſpirit as I do my own: But ſeeing we have bin proſtrated to the powerful indications of the diſpleaſure of the moſt High, ſince many are apt to recriminate, and boaſt of the proſperity of their Cauſe; which if they did but look back to the ſource, and ſearch the very principles; and then ſee, if ever any cauſe had like ſucceſs; and whether it be a juſt reproach to your Enemies, that the judgments of God have begun with them, whilſt you know not yet where they may determine.</p>
+            <p>
+               <hi>My Lord,</hi> Be pleaſed to look Northwards upon your Country-men the <hi>Scots,</hi> who (being inſtigated by the crafty Cardinal <hi>Richlieu,</hi> to di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urb the groth of the incomparable Church of <hi>England,</hi> and ſo conſe<g ref="char:EOLhyphen"/>quently the tranquility of a Nation, whoſe Expedition at the Iſle of <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> gave e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rour to the <hi>French</hi>) made Reformation their pretence, to gratifie their own avarice, introduce themſelves, and a more then Ba<g ref="char:EOLhyphen"/>byloniſh Tyranny, impoſing upon the Church and State, beyond all impudence or example. I ſay <hi>(my Lord)</hi> look upon what they have gotten, by deceiving their Brethren, ſelling their King, betraying their Lord and Maſter his Son; and by all their perfidie, become onely a conquer'd Nation for their Diſloyalty, and an infamy as unparalled, as their Treaſon and Ingratitude. But behold (Sir) the Scean being
+<pb n="4" facs="tcp:48524:3"/>changed, and ſundry Models and <hi>Chimaeras</hi> blown away, nothing re<g ref="char:EOLhyphen"/>maining of them but empty Coffins; but which is yet leſs empty then the heads of thoſe Politians, which ſo lately ſeemed to fill it. As for the product and ſucceſs in the ſeveral Intervals, we ſhall not blot paper with a recital of ſuch <hi>Interludes;</hi> for it is not the various Diſ<g ref="char:EOLhyphen"/>penſations and providencens in your journey to that <hi>Holy Land</hi> of purchaſes and profits, which can ſerve as an appeal for the juſtification of your proceedings.</p>
+            <p>In a word <hi>(my Lord)</hi> it is the height of all impertinency to con<g ref="char:EOLhyphen"/>ceive, that a few Subjects who fall into an exorbitabitant contradicti<g ref="char:EOLhyphen"/>on to their own good, can ever conſtitute a well-order'd Government for the Thouſands of true <hi>Engliſh</hi> men that are not clad in Red; let me therefore intreat you, to embrace a juſt Right to challenge ſub<g ref="char:EOLhyphen"/>miſſion to the precepts of Loyalty, and to endeavour the inveſting of a Lawful Authority and to recover and protect a Civil Government, according to the good old Laws of the Land: For if the eſſential end of Rulers be the common peace, and their Laws oblieging as they become relative: reſtore us then to thoſe under which we lived with ſo much happineſs and tranquility, as no age in the World, no Government under Heaven could pretend, or ever did enjoy the like. And now <hi>(my Lord)</hi> if after the greateſt of injuſtice, and impiety on your parts, you have proſecuted that with the extreameſt madneſs, which you eſteemed criminal in your Enemies, <hi>viz.</hi> For any, <hi>To arrogate the ſupream power to a ſingle perſon condemn men without Law,</hi> (witneſs the Marqueſs of <hi>Montroſs,</hi> and others) <hi>execute, and preſcribe them with as little, violate Authority, diſpenſe with your ſolemn Oaths;</hi> in ſumme, <hi>to mingle Earth and Heaven, as many have done by their un<g ref="char:EOLhyphen"/>arbitrary proceedings:</hi> All which actions do abundantly declare the Hypocriſie of ſome, and the Juſtification of others, pronouncing the Aſſertors of Regal Government the onely honeſt which have appea<g ref="char:EOLhyphen"/>red upon the ſtage, in Characters as plain, that he which runs may read, whilſt there are ſome that would perſecute them even to death. <hi>My Lord,</hi> When I compare theſe things together, I cannot but ac<g ref="char:EOLhyphen"/>knowledge it the very finger of God, <hi>mirabile in oculis nostris;</hi> and it is that which induceth me, to beſeech you to re-enter into your ſelf, to abandon all falſe principles, to withdraw your ſelf from Seducers, to repent of what you have done, and to riſe and promote the publick Intereſt.</p>
+            <p>
+               <pb n="5" facs="tcp:48524:3"/>
+And whereas many object, <hi>that the King is not to be trusted:</hi> judge not of others by your ſelves; Did ever any man obſerve the leaſt in<g ref="char:EOLhyphen"/>clination of revenge in his Breaſt? Has he not beſides the innate pro<g ref="char:EOLhyphen"/>penſity of his own nature to gentleneſs, the ſtrict Injunctions of a dy<g ref="char:EOLhyphen"/>ing Father, to forgive all men, even the greateſt of Offendors? Yes I dare pronounce it with confidence, and avouch it with all aſſurance, that there is not an Individual amongſt you, throughout <hi>England, Scotland,</hi> and <hi>Ireland,</hi> whoſe Crimes are the moſt crimſon, whom He will not be moſt ready to pardon, and graciouſly receive upon their repentance; nor any thing that can be deſired of Him, to which He would not chearfully accommode, for the ſtopping of that torrent of bloud, and extream confuſion, which has hitherto run, and is yet im<g ref="char:EOLhyphen"/>minent over ſeveral places. Do but reaſon a little with your ſelf, &amp; conſider ſadl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, whether a young Prince, mortified by ſo many afflicti<g ref="char:EOLhyphen"/>ons, diſcip<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in'd by much experience, and inſtructed by the miſcarria<g ref="char:EOLhyphen"/>ges of others, be not the moſt excellently qualified to govern and re<g ref="char:EOLhyphen"/>duce a people, who have ſo ſucceſſeleſly tryed ſo many Governments, and various Changes?</p>
+            <p>As to the Objection that He has lived among Papiſts, is vi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iouſly inclin'd, and has a wicked Counſel about Him: What can be ſaid more auſterely? Have not many the Foreheads to declare, He has lived amongſt Papiſts to his prejudice, who have proſcrib'd him from Pro<g ref="char:EOLhyphen"/>teſtants, perſecuted Him from place to place, <hi>as a Partridge on the Mountains?</hi> Whilſt the Catholick King was an Allie to <hi>England,</hi> many there were that had nothing to do with Pariſts; it was then no crime: <hi>God is not mocked, away with this reſpect of perſons:</hi> where is it you would have him to be? The <hi>Hollander</hi> dares not afford him harbour leſt the <hi>Engliſh</hi> refuſe him theirs: The <hi>French</hi> may not give him bread, for fear of offending others; and unleſs he ſhould go to the <hi>Indies,</hi> or the <hi>Turk,</hi> where can he be ſafe from revenge? But ſuppoſe him in a Papiſt Countrey, conſtrained thereto by incharity to his Soul as well as Body; Would he have condeſcended to a tolera<g ref="char:EOLhyphen"/>tion of Papiſts. He needed not to have wanted the aſſiſtance of the moſt puiſſant Princes of Chriſtendom to reſtore Him, of whom He has refuſed ſuch Conditions, as in prudence He might have condeſ<g ref="char:EOLhyphen"/>cended to, and the people would have gladly received; So that we may eaſily divine, who they are that tranſact &amp; truck with the Jeſuit, although at a far diſtant, and how firm <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd near He is to the Church
+<pb n="6" facs="tcp:48524:4"/>of <hi>England,</hi> from the leaſt wavering in his Faith. But ſince there is a toleration of Religions, without exception; do not think it a ſinne in Him, to gratifie thoſe that ſhall moſt oblige Him.</p>
+            <p>And further <hi>(my Lord)</hi> give me leave to introduce this aſſertion, That for his Vertues and Morality, I provoke the moſt refined Fami<g ref="char:EOLhyphen"/>ly amongſt you, to produce a Relation of more piety and moderati<g ref="char:EOLhyphen"/>on; ſhew me a Fratetnity more ſpotleſs in their honour, and freer from the exorbitances of Youth, than the King and his two Brothers, ſo conſpicuous to all the World for their Temperance, Magnanimity, Conſtancy, and Underſtanding; a Friendſhip and Humility unparal<g ref="char:EOLhyphen"/>lel'd, and rarely to be found amongſt the ſevereſt perſons, ſcarcely in a private Family.</p>
+            <p>It is the malice of a very black Soul, and a virulent <hi>Renegado</hi> (of whom to be recommended were the utmoſt Infamy) that has inter<g ref="char:EOLhyphen"/>prered ſome complyances, to which perſons in diſtreſs are ſometimes engaged, with thoſe whom they converſe withall, to the diſadvantage of a Prince.</p>
+            <p>
+               <hi>My Lord,</hi> I have but a word to add; and deſire, that it may incline you to accept of your beſt Intereſt, and prevent that dreadful ruine which the Obſtinacy of many doth threaten. Is it not as perſpicuous as the Sun, that it lies in the power of the people to ſummon a Free-Parliament, and ſuch Patriots and Repreſentatives, to reform and no<g ref="char:EOLhyphen"/>minate his Counſel, introduce themſelves, receive what compoſition they can deſire, have all the ſecurity that mortal men can imagine, and the greateſt Princes of Europe to engage in the performance? This were becoming worthy-men, &amp; honourable indeed; this is ingenuous ſelf-denial: And it is no diſgrace to reform a miſtake; but to perſiſt in it lyes the ſhame.</p>
+            <p>Doth not bleeding <hi>England, Scotland,</hi> and <hi>Ireland</hi> require this? Doth not the Laws of God command it? If ſo: you cannot, you muſt not defer it. For what can you pretend that will not then drop into your Boſomes? The humble man will have repoſe, the aſpi<g ref="char:EOLhyphen"/>ring and ambitious honours: The Merchants will be ſecure, Trades immediatly recover, Aliances will be confirm'd, the Laws reflouriſh, render Conſciences conſider'd, preſent Purchaſers ſatisfied; the Soul<g ref="char:EOLhyphen"/>dier paid, maintained, and provided for; the Sea-man honourably em<g ref="char:EOLhyphen"/>ployed: and what's above all this, Chriſtianity and Charity will re<g ref="char:EOLhyphen"/>vive
+<pb n="7" facs="tcp:48524:4"/>again amongſt Hs, <hi>Mercy and Truth will meet together; Righte<g ref="char:EOLhyphen"/>ouſneſs and Peace ſhall kiſs each other.</hi>
+            </p>
+            <p>On the contrary, conſider (I beſeech you) the confuſion which muſt of neceſſity befall Us if ye perſiſt in your Obſtinacy. For whilſt there is no Order in the Church, no Government eſtabliſhed, and that eve<g ref="char:EOLhyphen"/>ry man is abandon'd to his own deceitful heart: whilſt Learning is de<g ref="char:EOLhyphen"/>cried, and the Miniſtry reproach'd, what can ye expect, but the moſt direful expreſſions of the wrath of God, a univerſal deſolation, and deſperate <hi>Enthuſiaſme,</hi> with other miſeries that attend and follow the coming in of Sathans crafty Emiſaries, and impure <hi>Gnoſticks:</hi> beſides, a univerſal animoſity in the very Bowels of your Nations; the Patent againſt the Children, and the Children againſt the Parents, berraying one another to the death: So that the words which our Bleſſed Sa<g ref="char:EOLhyphen"/>viour has himſelf pronounced, doth exemplifie the condition your once flouriſhing Kingdomes are reduc'd unto: <hi>A Kingdom divided cannot stand.</hi> The truth of which, doth not a little reflect upon him, who had rather be a ſufferer with the afflicted, than enjoy the pleaſures of ſin which ſome poſſeſs for a ſeaſon. Subſcribing,</p>
+            <closer>
+               <dateline>
+                  <hi>Bruſſels,</hi> 
+                  <date>
+                     <hi>Novemb,</hi> 6. 1659.</date>
+               </dateline>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips very humble ſervant,
+C. CULPEPPER.</signed>
+            </closer>
+            <trailer>For the Right Honorable, the Lord <hi>Douglas,</hi> to be tranſmitted to col. <hi>Brown,</hi> and the rest of the Nobility and Gentry in the <hi>Scottiſh</hi>Nation.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
